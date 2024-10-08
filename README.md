@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/joao10martins](https://github.com/joao10martins)
 
-- 📫 How to reach me: **[**Email**][email]**
+- 📫 How to reach me: jfsmartins10@hotmail.com
 
 - ⚡ Fun fact: **I am a gamer & animated series enjoyer!**
 
