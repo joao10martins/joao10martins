@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Martins!</h1>
-<h3 align="center">A passionate and experienced mobile developer. Skilled in Computer Science, Flutter, Android(Java/Kotlin).</h3>
+<h3 align="center">A passionate and experienced mobile developer</h3>
 
 - 🔭 I’m currently working on [todo_app](https://github.com/joao10martins/ToDo-App)
 
