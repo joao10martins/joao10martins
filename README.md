@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [todo_app](https://github.com/joao10martins/ToDo-App)
 
-- 🌱 I’m currently learning **Flutter ❤️**
+- 🌱 I’m currently deepening my knowledge in **Flutter ❤️**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/joao10martins](https://github.com/joao10martins)
 
