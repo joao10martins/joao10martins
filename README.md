@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Android+Developer;Mobile+Technologies+Practicioner)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%c3%a3o-martins-090086168/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfsmartins10@hotmail.com)
+
 </div>
 
 - 🔭 I’m currently working on [todo_app](https://github.com/joao10martins/ToDo-App)
