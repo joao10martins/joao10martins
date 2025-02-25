@@ -59,11 +59,11 @@
         <br>Flutter
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=android" alt="Android" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="48" height="48" />
         <br>Android
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="65" height="65" />
         <br>Kotlin
       </td>
       <td align="center" width="96">
