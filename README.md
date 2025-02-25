@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm João Martins!</h1>
-<h3 align="center">A passionate and experienced mobile developer</h3>
+<div align="center">
+
+[<h1 align="center">Hi 👋, I'm João Martins!</h1>
+<h3 align="center">A passionate and experienced mobile developer</h3>](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi%20there,%20I'm%20João!%20👋&fontSize=42&descAlignY=50&fontAlignY=32&desc=Mobile%20Developer&descSize=24)
+
+</div>
 
 - 🔭 I’m currently working on [todo_app](https://github.com/joao10martins/ToDo-App)
 
