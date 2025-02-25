@@ -37,7 +37,7 @@
     <img height="170" width="45%"
       src="https://github-readme-stats.vercel.app/api?username=joao10martins&show_icons=true&theme=tokyonight" />
     <img height="170" width="45%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa1f27&layout=compact&theme=tokyonight&langs_count=8" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao10martins&layout=compact&theme=tokyonight&langs_count=8" />
   </p>
 
   [![GitHub
