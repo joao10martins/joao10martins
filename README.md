@@ -55,15 +55,15 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
         <br>Flutter
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="65" height="65" />
         <br>Android
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="65" height="65" />
         <br>Kotlin
       </td>
       <td align="center" width="96">
