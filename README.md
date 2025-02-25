@@ -40,8 +40,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao10martins&layout=compact&theme=tokyonight&langs_count=8" />
   </p>
 
-  [![GitHub
-  Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao10martins&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joao10martins&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
