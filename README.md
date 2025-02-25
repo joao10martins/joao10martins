@@ -9,15 +9,41 @@
 
 </div>
 
+<img align="right" alt="Coding" width="280"
+  src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" />
+
+## 🚀 About Me
+
+- 🎓 Computer Science graduate specializing in **Mobile Development**
+- 👨‍💻 Building scalable, maintanable, performant & user-friendly mobile apps
+- 🌱 Currently exploring **Advanced Flutter**, **Android**, and **iOS/React Native**
+- 🎯 Goal: Buying a house, having my own office room and start a family while doing what I love
 - 🔭 I’m currently working on [todo_app](https://github.com/joao10martins/ToDo-App)
-
-- 🌱 I’m currently deepening my knowledge in **Flutter ❤️**
-
-- 👨‍💻 All of my projects are available at: [https://github.com/joao10martins](https://github.com/joao10martins)
-
-- 📫 How to reach me: jfsmartins10@hotmail.com
-
 - ⚡ Fun fact: **I am a gamer & animated series enjoyer!**
+
+---
+
+## 📊 Analytics & Achievements
+
+<div align="center">
+
+  ### 📈 GitHub Stats
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=joao10martins&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"
+    width="100%" alt="Trophy" align="middle" />
+
+  <p align="center">
+    <img height="170" width="45%"
+      src="https://github-readme-stats.vercel.app/api?username=Sa1f27&show_icons=true&theme=tokyonight" />
+    <img height="170" width="45%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa1f27&layout=compact&theme=tokyonight&langs_count=8" />
+  </p>
+
+  [![GitHub
+  Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa1f27&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
