@@ -19,7 +19,6 @@
 - 🌱 Currently exploring **Advanced Flutter**, **Android**, and **iOS/React Native**
 - 🎯 Goal: Buying a house, having my own office room and start a family while doing what I love
 - 🔭 I’m currently working on [todo_app](https://github.com/joao10martins/ToDo-App)
-- ⚡ Fun fact: **I am a gamer & animated series enjoyer!**
 
 ---
 
