@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi%20there,%20I'm%20João!%20👋&fontSize=42&descAlignY=50&fontAlignY=32&desc=Mobile%20Developer&descSize=24)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&text=Hi%20there,%20I'm%20João!%20👋&fontSize=42&descAlignY=50&fontAlignY=32&desc=Mobile%20Developer&descSize=24)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Android+Developer;Mobile+Technologies+Practicioner)](https://git.io/typing-svg)
 
