@@ -19,7 +19,7 @@
 - 🌱 Currently exploring **Advanced Flutter**, **Android**, and **iOS/React Native**
 - 🎯 Goal: Buying a house, having my own office room and start a family while doing what I love
 - 🔭 I’m currently working on [todo_app](https://github.com/joao10martins/ToDo-App)
-- - ⚡ Fun fact: **I am a gamer & animated series enjoyer!**
+- ⚡ Fun fact: **I am a gamer & animated series enjoyer!**
 
 ---
 
@@ -44,6 +44,46 @@
   Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa1f27&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  ### 💻 Programming & Mobile Development
+
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=android" alt="Android" width="48" height="48" />
+        <br>Android
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="65" height="65" />
+        <br>Kotlin
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="65" height="65" />
+        <br>Swift
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
