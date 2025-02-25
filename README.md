@@ -40,7 +40,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao10martins&layout=compact&theme=tokyonight&langs_count=8" />
   </p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joao10martins&theme=tokyonight)](https://git.io/streak-stats)
+  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joao10martins&theme=tokyonight)](https://git.io/streak-stats) -->
 
 </div>
 
@@ -83,11 +83,39 @@
 
 </div>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-martins-090086168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-martins-090086168/" height="30" width="40" /></a>
-</p>
+## 📚 Certifications & Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<div align="center">
+
+  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+  ## 🤝 Let's Connect and Collaborate!
+
+  <p>
+    <a href="https://github.com/joao10martins?tab=followers">
+      <img src="https://img.shields.io/github/followers/joao10martins?label=Followers&logo=GitHub&style=for-the-badge"
+        alt="GitHub Followers" />
+    </a>
+    <img src="https://img.shields.io/github/stars/joao10martins?label=Stars&logo=GitHub&style=for-the-badge"
+      alt="GitHub Stars" />
+  </p>
+
+  <p>💼 Open for collaborations in mobile app projects and innovative tech solutions!</p>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
+    width="100%" />
+
+</div>
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=joao10martins&color=blueviolet&style=flat-square)
