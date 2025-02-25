@@ -35,13 +35,13 @@
 
   <p align="center">
     <img height="170" width="45%"
-      src="https://github-readme-stats.vercel.app/api?username=Sa1f27&show_icons=true&theme=tokyonight" />
+      src="https://github-readme-stats.vercel.app/api?username=joao10martins&show_icons=true&theme=tokyonight" />
     <img height="170" width="45%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa1f27&layout=compact&theme=tokyonight&langs_count=8" />
   </p>
 
   [![GitHub
-  Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa1f27&theme=tokyonight)](https://git.io/streak-stats)
+  Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao10martins&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
